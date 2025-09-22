@@ -1,0 +1,26 @@
+# Gradle build output
+/build/
+/out/
+
+# Gradle cache
+.gradle/
+
+# IDE settings
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+.classpath
+.project
+.settings/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Run configs (can be regenerated)
+run/
